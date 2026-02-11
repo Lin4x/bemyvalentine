@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Mónica",
+    valentineName: "Mónica I.",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "No me gustas, TE AMO! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Soy la persona más afortunada del mundo! 🎉💝💖💝💓",
+        message: "Now come get your gift, a big hug and a lot of kisses!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
