@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Soy la persona más afortunada del mundo! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big hug and a lot of kisses!",
+        title: "Soy el novio más afortunada del mundo! 🎉💝💖💝💓",
+        message: "Te amo hoy y siempre",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
