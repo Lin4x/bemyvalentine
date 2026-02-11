@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://collection.cloudinary.com/dqxdkhe06/dfb906223df00277637869511dc3d641", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dqxdkhe06/video/upload/v1770843259/Harry_Styles_-_Adore_You_Official_Audio_u9fd78.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
